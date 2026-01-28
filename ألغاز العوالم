@@ -135,11 +135,6 @@ function checkAnswer(q) {
 }
 ├── live2d/
 │   └── placeholder.live2d.json
-{
-  "model": "اسم الموديل هنا",
-  "type": "Live2D",
-  "texture": "texture.png"
-}
 ├── 3d/
 │   └── placeholder.glb
 ├── assets/
