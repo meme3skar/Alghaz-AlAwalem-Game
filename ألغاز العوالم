@@ -1,7 +1,3 @@
-Alghaz-AlAwalem-Game/
-├── index.html
-├── game.js
-├── game.json
 {
   "levels": {
     "version1": {
@@ -58,13 +54,3 @@ Alghaz-AlAwalem-Game/
     ]
   }
 }
-├── live2d/
-│   └── placeholder.live2d.json
-├── 3d/
-│   └── placeholder.glb
-├── assets/
-│   ├── bg1.jpg
-│   ├── click.mp3
-│   └── win.wav
-├── README.md
-└── .gitignore
